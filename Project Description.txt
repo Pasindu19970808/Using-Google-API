@@ -1,0 +1,6 @@
+1) Get Place search details
+2) Get Lat and Lng of each
+3) Use a user interface to load the lat and lng into a html to show on map
+
+3 - Create a Javascript list to put in the lat, lng and name
+ - load that into the html
