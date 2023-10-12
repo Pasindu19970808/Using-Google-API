@@ -7,7 +7,7 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-API_key = 'AIzaSyBjdjvMLuBJYh9wn7erROA-SkCQGsJXjNk'
+API_key = 12345
 
 #gives list of places_ids available
 serviceurl_placesearch = 'https://maps.googleapis.com/maps/api/place/textsearch/json?'
